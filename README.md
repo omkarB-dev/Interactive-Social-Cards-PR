@@ -16,3 +16,12 @@ Claymorphic Design: Implements a modern "claymorphic" design aesthetic with soft
 Responsive Design: Ensures a seamless experience across various devices.
 
 Subtle Animations: Includes fadeIn, fadeInDown, and cardZoomIn animations for a more engaging user experience.
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb71d070-8b76-4ee6-864d-4fe1f3df09da" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ae7cf40-0e4c-41ae-9a9a-d5e2a667cccd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b9a821b-38a9-4478-8652-ca20fca47368" />
+
+
+
+{Added screenshots of the UI}
